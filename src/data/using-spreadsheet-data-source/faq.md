@@ -1,9 +1,12 @@
 ---
 summary: A guide that shows how to use a spreadsheet as your data source in an OutSystems App.
-tags: spreadsheets-as-data-sources-outsystems-applications; google-spreadsheet-as-data-source-outsystems-applications;
+tags: spreadsheets-as-data-sources-outsystems-applications; google-spreadsheet-as-data-source-outsystems-applications; data; entities; excel;
 ---
+## How can I Use a Spreadsheet as a Data Source?
 
-# How to Use a Spreadsheet as Your Data Source
+If I have a data in other form, such as an Excel document, how can I import that into OutSystems as an entity?
+
+## How to Use a Spreadsheet as Your Data Source in OutSystems
 
 This guide shows how you can use a spreadsheet as data source in an OutSystems App.
 
@@ -40,3 +43,8 @@ Set the Spreadsheet ID, Spreadsheet Name and Range, and use the SetValues functi
 
 
 For Excel files, OutSystems provides a similar component that leverages the Microsoft Graph API to use an Excel File as a data source, the [Microsoft Graph Connector](https://www.outsystems.com/forge/component-overview/5552/microsoft-graph-connector).
+
+## Video
+
+[![](http://img.youtube.com/vi/FTgtC868wjU/0.jpg)](http://www.youtube.com/watch?v=FTgtC868wjU "OutSystems Bootstrap Database")
+
